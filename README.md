@@ -7,7 +7,7 @@
 * Styled Components
 * React Hooks
 
-##### I really enjoyed creating this simple TypeScript.Js Trivia app, allowing myself to learn TypeScript.Js as well as learning more about API's, Styled Components, as well as React Hooks.
+### I really enjoyed creating this simple TypeScript.Js Trivia app, allowing myself to learn TypeScript.Js as well as learning more about API's, Styled Components, and React Hooks.
 
 ![TypeScript Trivia](./assets/landing.png)
 
